@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">¡Hola! 👋 Soy Gysel Mariana Rodríguez Quincoz</h2>
+<h2 data-importer="text" align="left">¡Hola! Soy Gysel Mariana Rodríguez Quincoz</h2>
 <h3 align="center">
  Developer Junior 
 </h3>
@@ -17,8 +17,7 @@ En proceso de certificación por el SENA
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
+<img align="right" height="240" src="https://media.tenor.com/rePDfDWO3XoAAAAi/hacking.gif"/>
 ###
 
 <div data-importer="techs" align="left">
@@ -62,6 +61,9 @@ En proceso de certificación por el SENA
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+## 🐍 Mis contribuciones
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MarianaRQ/MarianaRQ/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 ###
