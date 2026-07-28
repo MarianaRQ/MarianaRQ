@@ -59,7 +59,6 @@ En proceso de certificación por el SENA
 
 <br clear="both">
 
-## 🐍 Mis contribuciones
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MarianaRQ/MarianaRQ/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
