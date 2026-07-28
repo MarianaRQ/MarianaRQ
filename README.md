@@ -17,7 +17,6 @@ En proceso de certificación por el SENA
 
 ###
 
-<p align="center"> <img src="https://cdni.iconscout.com/illustration/premium/thumb/female-programmer-working-on-computer-illustration-4583952-3808037.png" width="300"> </p>
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
